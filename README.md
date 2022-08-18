@@ -12,8 +12,10 @@
   I'm currently finishing a master's degree in phylosophy, studying the function of boredom on Heidegger's ontology.
   
   One of my favorite hobbies is drink a lil bit of beer with my family and friends, and I also like a good barbecue in my backyard.</br>
-  As you all can see, I don't have a good english, that's why I'm here too.
+  As you all can see, I don't have a good english, that's why I'm here too. </br>
   A few months ago I started to teach a new subject, new including for me, and it has to do with programing languages.
+
+ 
 </html>
 
 <!---
